@@ -15,7 +15,7 @@ To begin using Brisk, run the following to get started:
 
 ## Bugs and Issues
 
-Have a bug or an issue with Brisk? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-sb-admin/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/sb-admin/).
+Have a bug or an issue with Brisk? [Open a new issue](https://jira.dev.clover.com/secure/Dashboard.jspa) here on Jira or leave a comment in the [#BRISK](https://cloverpos.slack.com/messages/C9R7Q7MB9/) channel on Slack.
 
 ## About
 
