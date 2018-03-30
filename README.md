@@ -2,54 +2,28 @@
 
 ## Download and Installation
 
-To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](https://startbootstrap.com/template-overviews/sb-admin/)
-* Install via npm: `npm i startbootstrap-sb-admin`
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-sb-admin.git`
-* [Fork, Clone, or Download on GitHub](https://github.com/BlackrockDigital/startbootstrap-sb-admin)
+To begin using Brisk, run the following to get started:
+* Clone the repo: `git clone https://github.com/kristalinc/Brisk.git`
 
 ## Usage
 
 ### Basic Usage
 
-After downloading, simply edit the HTML and CSS files included with the template in your favorite text editor to make changes. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
-
-### Advanced Usage
-
-After installation, run `npm install` and then run `gulp dev` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `gulpfile.js` to see which tasks are included with the dev environment.
-
-#### Gulp Tasks
-
-- `gulp` the default task that builds everything
-- `gulp dev` browserSync opens the project in your default browser and live reloads when changes are made
-- `gulp sass` compiles SCSS files into CSS
-- `gulp minify-css` minifies the compiled CSS file
-- `gulp minify-js` minifies the themes JS file
-- `gulp copy` copies dependencies from node_modules to the vendor directory
+- After downloading, simply run ./start.sh which will install Brisk GUI dependencies and then the GUI will load.
+- Once the GUI loads, it will prompt you to download the dependencies, this will only happen on the first run
+- After downloading dependencies and/or running for the 2nd+ time, you'll be able to choose Repo/Clone/Merchant
 
 ## Bugs and Issues
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-sb-admin/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/sb-admin/).
-
-## Custom Builds
-
-You can hire Start Bootstrap to create a custom build of any template, or create something from scratch using Bootstrap. For more information, visit the **[custom design services page](https://startbootstrap.com/bootstrap-design-services/)**.
+Have a bug or an issue with Brisk? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-sb-admin/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/sb-admin/).
 
 ## About
 
-Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
+Brisk is a tool that Clover Engineers use to get their machine up and running faster than trying to figure it out themselves. Everything an engineer needs is here and ready to be used.
 
-* https://startbootstrap.com
-* https://twitter.com/SBootstrap
-
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
-
-* http://davidmiller.io
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
-
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
-
-## Copyright and License
-
-Copyright 2013-2017 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-sb-admin/blob/gh-pages/LICENSE) license.
+## Check out the following while you wait for your Brisk to set up your machine.
+* https://confluence.dev.clover.com/display/CO/Clover+Team
+* http://auto18.corp.clover.com/dashboard/dashboard.py
+* https://confluence.dev.clover.com/display/ENG/Software+Engineer+Detailed+Set+Up
+* https://www.clover.com/
+* https://en.wikipedia.org/wiki/Clover_Network
