@@ -1,4 +1,4 @@
-# [BRISK](https://github.com/kristalinc/Brisk/blob/master/static/images/brisk.png)
+# [!BRISK(https://github.com/kristalinc/Brisk/blob/master/static/images/brisk.png)]
 
 ## Download and Installation
 
