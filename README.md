@@ -1,4 +1,4 @@
-<h1><cetner>BRISK</center></h1>
+# BRISK
 
 <p align="center">
   <img width="350" height="500" src="https://github.com/kristalinc/Brisk/blob/master/static/images/brisk.png">
