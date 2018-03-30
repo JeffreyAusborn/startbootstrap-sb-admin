@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="460" height="300" src="https://github.com/kristalinc/Brisk/blob/master/static/images/brisk.png">
+  <img width="350" height="500" src="https://github.com/kristalinc/Brisk/blob/master/static/images/brisk.png">
 </p>
 
 
